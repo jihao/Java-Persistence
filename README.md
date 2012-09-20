@@ -10,9 +10,12 @@ My practice code during learning ["Enterprise JavaBeans 3.0"](http://www.oreilly
 ![](http://oreilly.com/catalog/covers/059600978X_cat.gif)
 
 
-## What I did?
+## Why?
 
 * type & practise the code from the book
 * use maven to manage the dependence 
-* you can start learning JPA quickly by clone this repo
+* it will be nice for quickly remember JPA stuff with a handy runable small app
 
+
+## History
+* I was learning JPA 4 year ago, and the code was orignally stored at googlecode (http://code.google.com/p/ejb3study/source/list), the old project was not maven based.
